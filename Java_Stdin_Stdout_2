@@ -11,10 +11,6 @@ public class Solution {
         String s = scan.nextLine();
         scan.close();
 
-        //Scanner crow = new Scanner(System.in);
-        //crow.nextLine();
-        //String s = crow.nextLine();
-        //crow.close();
 
         // Write your code here.
 
